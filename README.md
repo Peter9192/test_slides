@@ -4,6 +4,12 @@
 
 This template should help get you started creating awesome slide decks using [Reveal.js](https://revealjs.com) with Svelte in Vite.
 
+## How to start using this template
+Using a recent version of pnpm
+
+- `pnpm install`
+- `pnpm run dev`
+
 ## How does it work?
 - Your slides are both Svelte components and Reveal.js slides.
 - You can have one or more slides (using `<section/>`) within a single Svelte component.
@@ -61,7 +67,7 @@ The slide order is the order in which you layout your Svelte components.
 ```
 
 ## Inspiration
-This project is inspired by [svelte-reveal-boilerplate](https://github.com/micschwarz/svelte-reveal-boilerplate/) 
+This project is inspired by [svelte-reveal-boilerplate](https://github.com/micschwarz/svelte-reveal-boilerplate/)
 
 ## Recommended IDE Setup
 
@@ -71,4 +77,3 @@ This project is inspired by [svelte-reveal-boilerplate](https://github.com/micsc
 - [Svelte](https://svelte.dev)
 - [Vite.js](https://vitejs.dev)
 - [Reveal.js](https://revealjs.com)
-
